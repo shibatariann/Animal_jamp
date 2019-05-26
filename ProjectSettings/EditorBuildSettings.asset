@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/start/start.unity
+    guid: d2b7a2ca5c7954087806d785abb97e7f
+  - enabled: 1
+    path: Assets/stage1/stage1.unity
+    guid: aa89285f071934f36abd9cc7b9546494
+  - enabled: 1
+    path: Assets/stage1/next.unity
+    guid: ad81550c18ebf40ba8db421e07a7f87d
+  - enabled: 1
+    path: Assets/stage1/Gameover.unity
+    guid: 4ee25d57c63804fe1a19e02b652980a4
+  - enabled: 1
+    path: Assets/stage1/clear.unity
+    guid: 013d00675cc95444e953ca12946811da
+  - enabled: 1
+    path: Assets/stage2/stage2.unity
+    guid: b3aa9ec54b29944409d0e73b4beeb9c8
+  - enabled: 1
+    path: Assets/stage2/main.unity
+    guid: 11c8238cc931d42cebd8aae70a8cc81b
+  - enabled: 1
+    path: Assets/stage2/gameover2.unity
+    guid: 3acade3ef43f04a6cb7eddf0eb5566ec
+  - enabled: 1
+    path: Assets/stage2/clear2.unity
+    guid: 279a9dd11b80c4d2d9f9a846a4d9aeb5
+  - enabled: 1
+    path: Assets/stage3/stage3.unity
+    guid: 8d744dcf0b2f4461c86720db75cd8536
+  - enabled: 1
+    path: Assets/stage3/gameover3.unity
+    guid: 4e89351387f9b47199452c8403a0dc8c
+  - enabled: 1
+    path: Assets/stage3/clear3.unity
+    guid: 98ab22bc29d2b41c88ca2747d7ecf92c
+  - enabled: 1
+    path: Assets/stage3/third.unity
+    guid: 633cca476b2bf4f868aaf28dfe81865f
+  - enabled: 1
+    path: Assets/stage4/stage4.unity
+    guid: 7f95d16dde89c46bc8076665035711a5
+  - enabled: 1
+    path: Assets/stage4/fourth.unity
+    guid: a996f16e6071b4b7591e91770017932a
+  - enabled: 1
+    path: Assets/stage4/gameover4.unity
+    guid: 0cb90f8f4f4214deeb00dd8bdf1e666b
+  - enabled: 1
+    path: Assets/stage4/clear4.unity
+    guid: d9d24d433defb4ba88b4b5772c7e722e

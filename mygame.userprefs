@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/thirdplayer.cs">
+    <Files>
+      <File FileName="Assets/coinhyouzi.cs" Line="13" Column="3" />
+      <File FileName="Assets/stage1/point.cs" Line="14" Column="15" />
+      <File FileName="Assets/kane.cs" Line="23" Column="46" />
+      <File FileName="Assets/stage1/enemy2.cs" Line="23" Column="38" />
+      <File FileName="Assets/stage3/sceneclear3.cs" Line="18" Column="19" />
+      <File FileName="Assets/stage2/sceneclear2.cs" Line="17" Column="34" />
+      <File FileName="Assets/thirdplayer.cs" Line="61" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
