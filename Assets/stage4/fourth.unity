@@ -160,7 +160,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99b1a4b90246c46b09d4b16ff2a04c88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!65 &2497276
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -276,6 +276,11 @@ Prefab:
       propertyPath: m_Name
       value: Lion_Statue (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 114320791255037218, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34, type: 2}
   m_IsPrefabParent: 0
@@ -842,7 +847,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 250192d50d6a741a08d4515b9e80bb84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!23 &293905156
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1102,6 +1107,11 @@ Prefab:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114312476297823552, guid: c8dcd5b014568422db69e7cb658a8f42,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c8dcd5b014568422db69e7cb658a8f42, type: 2}
   m_IsPrefabParent: 0
@@ -1269,7 +1279,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 250192d50d6a741a08d4515b9e80bb84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!23 &381011234
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1373,7 +1383,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99b1a4b90246c46b09d4b16ff2a04c88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!65 &387947479
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1578,7 +1588,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 250192d50d6a741a08d4515b9e80bb84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!1 &583222922
 GameObject:
   m_ObjectHideFlags: 0
@@ -1970,6 +1980,11 @@ Prefab:
       propertyPath: m_Name
       value: Lion_Statue (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 114320791255037218, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34, type: 2}
   m_IsPrefabParent: 0
@@ -2035,7 +2050,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 250192d50d6a741a08d4515b9e80bb84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!1001 &764108595
 Prefab:
   m_ObjectHideFlags: 0
@@ -2079,6 +2094,11 @@ Prefab:
       propertyPath: m_Name
       value: Lion_Statue (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 114320791255037218, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34, type: 2}
   m_IsPrefabParent: 0
@@ -2125,6 +2145,11 @@ Prefab:
       propertyPath: m_Name
       value: Lion_Statue (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 114320791255037218, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34, type: 2}
   m_IsPrefabParent: 0
@@ -2265,7 +2290,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 250192d50d6a741a08d4515b9e80bb84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!1001 &866721372
 Prefab:
   m_ObjectHideFlags: 0
@@ -2309,6 +2334,11 @@ Prefab:
       propertyPath: m_Name
       value: Lion_Statue (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 114320791255037218, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34, type: 2}
   m_IsPrefabParent: 0
@@ -2416,7 +2446,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 250192d50d6a741a08d4515b9e80bb84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!114 &873616088
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2723,6 +2753,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 114305299129431090, guid: 10fa7364b80ab4377bc6d67fb08209e3,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 10fa7364b80ab4377bc6d67fb08209e3, type: 2}
   m_IsPrefabParent: 0
@@ -2773,7 +2808,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99b1a4b90246c46b09d4b16ff2a04c88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!65 &955829465
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2954,7 +2989,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 250192d50d6a741a08d4515b9e80bb84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!1001 &1056079149
 Prefab:
   m_ObjectHideFlags: 0
@@ -3008,6 +3043,11 @@ Prefab:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114312476297823552, guid: c8dcd5b014568422db69e7cb658a8f42,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c8dcd5b014568422db69e7cb658a8f42, type: 2}
   m_IsPrefabParent: 0
@@ -3229,7 +3269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 250192d50d6a741a08d4515b9e80bb84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!1 &1164132486
 GameObject:
   m_ObjectHideFlags: 0
@@ -3331,6 +3371,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 114643388417606850, guid: 324dc9fea4a3f469aa81fc58b277e338,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 324dc9fea4a3f469aa81fc58b277e338, type: 2}
   m_IsPrefabParent: 0
@@ -3381,7 +3426,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99b1a4b90246c46b09d4b16ff2a04c88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!65 &1174215365
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3867,7 +3912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 250192d50d6a741a08d4515b9e80bb84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!114 &1362465969
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4149,6 +4194,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114848546961898412, guid: 05a4ceb6c4d4c43ef96bfe6fe3ff18c4,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 05a4ceb6c4d4c43ef96bfe6fe3ff18c4, type: 2}
   m_IsPrefabParent: 0
@@ -4413,6 +4463,11 @@ Prefab:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114312476297823552, guid: c8dcd5b014568422db69e7cb658a8f42,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c8dcd5b014568422db69e7cb658a8f42, type: 2}
   m_IsPrefabParent: 0
@@ -4463,7 +4518,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99b1a4b90246c46b09d4b16ff2a04c88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!65 &1642211720
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4667,6 +4722,11 @@ Prefab:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114005061776752950, guid: 53a142004c5044d38a873c8963fda65e,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 53a142004c5044d38a873c8963fda65e, type: 2}
   m_IsPrefabParent: 0
@@ -4727,7 +4787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 250192d50d6a741a08d4515b9e80bb84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!1001 &1685163380
 Prefab:
   m_ObjectHideFlags: 0
@@ -4767,6 +4827,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 114948479028379698, guid: 45247a4b89f764a1bbb00ae6756e5a4e,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 45247a4b89f764a1bbb00ae6756e5a4e, type: 2}
   m_IsPrefabParent: 0
@@ -4888,6 +4953,11 @@ Prefab:
       propertyPath: m_Name
       value: Lion_Statue (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 114320791255037218, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34, type: 2}
   m_IsPrefabParent: 0
@@ -4986,6 +5056,11 @@ Prefab:
       propertyPath: m_Constraints
       value: 62
       objectReference: {fileID: 0}
+    - target: {fileID: 114005061776752950, guid: 53a142004c5044d38a873c8963fda65e,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 53a142004c5044d38a873c8963fda65e, type: 2}
   m_IsPrefabParent: 0
@@ -5189,7 +5264,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 250192d50d6a741a08d4515b9e80bb84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!23 &1796809876
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5340,6 +5415,11 @@ Prefab:
       propertyPath: m_Constraints
       value: 62
       objectReference: {fileID: 0}
+    - target: {fileID: 114005061776752950, guid: 53a142004c5044d38a873c8963fda65e,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 53a142004c5044d38a873c8963fda65e, type: 2}
   m_IsPrefabParent: 0
@@ -5390,7 +5470,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99b1a4b90246c46b09d4b16ff2a04c88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!65 &1817969196
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5607,7 +5687,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99b1a4b90246c46b09d4b16ff2a04c88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!65 &1841407556
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5729,7 +5809,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 250192d50d6a741a08d4515b9e80bb84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!23 &1844107108
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5904,6 +5984,11 @@ Prefab:
       propertyPath: m_Name
       value: Lion_Statue (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 114320791255037218, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34, type: 2}
   m_IsPrefabParent: 0
@@ -6045,6 +6130,11 @@ Prefab:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114312476297823552, guid: c8dcd5b014568422db69e7cb658a8f42,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c8dcd5b014568422db69e7cb658a8f42, type: 2}
   m_IsPrefabParent: 0
@@ -6091,6 +6181,11 @@ Prefab:
       propertyPath: m_Name
       value: Lion_Statue (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 114320791255037218, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34, type: 2}
   m_IsPrefabParent: 0
@@ -6142,6 +6237,11 @@ Prefab:
       propertyPath: m_Name
       value: Lion_Statue (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 114320791255037218, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34, type: 2}
   m_IsPrefabParent: 0
@@ -6246,7 +6346,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99b1a4b90246c46b09d4b16ff2a04c88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 0}
+  death: {fileID: 125647697}
 --- !u!65 &2042890887
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6485,7 +6585,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f39437136aa6d4d2890b5a1eb4971166, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sannkaku: {fileID: 0}
+  sannkaku: {fileID: 125647697}
 --- !u!4 &2093410452
 Transform:
   m_ObjectHideFlags: 0
@@ -6542,6 +6642,11 @@ Prefab:
       propertyPath: m_Name
       value: Lion_Statue (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 114320791255037218, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5c5e3430d8b6e4e7d9d9e391e4042f34, type: 2}
   m_IsPrefabParent: 0
@@ -6603,6 +6708,11 @@ Prefab:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114312476297823552, guid: c8dcd5b014568422db69e7cb658a8f42,
+        type: 2}
+      propertyPath: death
+      value: 
+      objectReference: {fileID: 125647697}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c8dcd5b014568422db69e7cb658a8f42, type: 2}
   m_IsPrefabParent: 0
